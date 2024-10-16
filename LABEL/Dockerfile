@@ -1,5 +1,5 @@
 FROM almalinux:9
-LABEL author = "A Vamshi Krishna" \
+LABEL author = "VamshiKrishna" \
       company = "avkdocr07" \
       topic = "dockerfiles" \
       duration = "2hrs"
