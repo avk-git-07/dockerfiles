@@ -1,5 +1,6 @@
 FROM almalinux:9
 LABEL author = "A Vamshi Krishna" \
-      user = "avkdocr" \
-      version = "img1"
+      company = "avkdocr07" \
+      topic = "dockerfiles" \
+      duration = "2hrs"
       
