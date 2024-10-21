@@ -5,5 +5,5 @@ ARG course="DevOps with AWS" \
 ENV course1=${course} \
     trainer1=${trainer} \
     duration1=${duration}
-RUN echo "Course is: $course, trainer is: $trainer1, and duration is: $duration1"
+RUN echo "Course is: $course1, trainer is: $trainer1, and duration is: $duration1"
 CMD ["sleep", "200"]
